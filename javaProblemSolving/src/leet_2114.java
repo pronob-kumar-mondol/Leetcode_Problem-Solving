@@ -10,12 +10,11 @@ public class leet_2114 {
 
         for (int i=0; i< sentences.length;i++){
             list.add(sentences[i]);
-        }
-        for (int i=0; i< sentences.length;i++){
-            if (list.get(i).contains(" ")){
+            if (list.contains(" ")){
 
             }
         }
+
 
 
     }
